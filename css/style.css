@@ -43,6 +43,7 @@ button {
     padding: 8px 20px;
     border: none;
     border-radius: 5px;
+    height: 40px;
 }
 
 #button-primary {
