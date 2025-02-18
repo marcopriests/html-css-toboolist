@@ -22,3 +22,11 @@ h1 {
     display: inline-block;
     font-size: 40px;
 }
+
+.container {
+    width: 900px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 20px 50px;
+}
