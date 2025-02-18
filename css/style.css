@@ -27,6 +27,26 @@ h1 {
     width: 900px;
     background-color: white;
     margin: 50px auto;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 20px 50px;
+}
+
+.button {
+    display: inline-block;
+    font-weight: 600;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+#button-primary {
+    color: white;
+    background-color: #45abea;
+}
+
+#button-secundary {
+    color: lightgray;
+    background-color: white;
+    border: solid lightgray 2px;
 }
