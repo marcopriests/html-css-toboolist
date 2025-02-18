@@ -28,7 +28,7 @@ h1 {
 /* Contenitore main */
 
 .container {
-    width: 900px;
+    width: 80%;
     background-color: white;
     margin: 50px auto;
     border-radius: 10px;
@@ -116,4 +116,8 @@ li {
 
 .tag-pink {
     background-color: #d764a6;
+}
+
+.tag-lime {
+    background-color: #b1cc26;
 }
