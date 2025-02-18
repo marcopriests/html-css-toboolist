@@ -37,7 +37,7 @@ h1 {
 
 /* Bottoni */
 
-.button {
+button {
     display: inline-block;
     font-weight: 600;
     padding: 8px 20px;
